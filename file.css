@@ -1,0 +1,29 @@
+.logo h1{
+    display: inline;
+}
+.logo {
+    padding: 10px;
+}
+#g {
+    color: blue;
+}
+#e {
+    color: red;
+}
+#o {
+    color: orange;
+}
+#l {
+    color: green;
+}
+.cont {
+    background-color: lightgrey;
+    width: 400px;
+    padding: 0px;
+    margin: 5px;
+  }
+input[type="text"] {
+    width: 300px;
+}
+
+
